@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+}
+
+.main {}
+
+img {}
+
+#welcome-p {}
+
+.container {}
+
+.sign-box {}
+
+
+
+#forgot {
+    display: inline;
+}
